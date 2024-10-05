@@ -1,6 +1,10 @@
-## 🌟 Olá, Sejam Bem-Vindos! Meu Nome é **<span style="color:#00BFFF">Pedro</span>** 👋🏻
+## 🌟 Olá, Sejam Bem-Vindos! Meu Nome é **Pedro** 👋🏻
 
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Pedro_Furtado1) 
+<div align="center">
+  <a href="https://linktr.ee/Pedro_Furtado1">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+  </a>
+</div>
 
 ---
 
