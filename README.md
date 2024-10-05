@@ -13,6 +13,7 @@
 
 💼 Atualmente, trabalhando no Projeto: **PawSync**.  
 🌱 Estou sempre aprendendo algo **novo** e aprimorando minhas **habilidades**.  
+🛠️ **Competências:** Proatividade, Comunicação eficaz, Trabalho em equipe, Organização, Resolução de problemas.
 
 ---
 
