@@ -1,8 +1,6 @@
 ## 🌟 Olá, Sejam Bem-Vindos! Meu Nome é **<span style="color:#00BFFF">Pedro</span>** 👋🏻
 
-[![Portfólio](https://img.shields.io/website?label=Visite%20meu%20Portfólio&style=for-the-badge&url=https://pedrofurtadoc.github.io/meu_portfolio/pages/home.html)](https://pedrofurtadoc.github.io/meu_portfolio/pages/home.html) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-furtado-33159023b/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_furtado_c)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Pedro_Furtado1) 
 
 ---
 
