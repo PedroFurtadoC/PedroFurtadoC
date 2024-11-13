@@ -89,10 +89,12 @@
 
 ---
 
+
 <div align="center">
-<br><p align="centre"><b>Contador de Visitantes:</b></p>  
+<br><p align="center"><b>Contador de Visitantes:</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroFurtadoC}/count.svg" /></p> 
 <br>
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e2b40&height=120&section=footer"/>
